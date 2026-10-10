@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Dataset: large raw data is not committed
+data/*
+!data/README.md
+*.csv
+*.csv.gz
+*.parquet
+
+# Generated model artifacts / scored samples
+saved_models/*
+!saved_models/README.md
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+# Generated results/logs
+results/*
+!results/README.md
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

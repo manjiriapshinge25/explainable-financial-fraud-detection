@@ -1,0 +1,20 @@
+# Core analysis
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+joblib
+
+# Graphs and GNNs
+networkx
+torch
+torch-geometric
+
+# Explainability and dashboard
+shap
+streamlit
+
+# Notebook environment
+jupyter
+ipykernel
