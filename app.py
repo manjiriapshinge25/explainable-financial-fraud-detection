@@ -23,7 +23,7 @@ def load_model():
 
 @st.cache_data
 def load_scored():
-    return pd.read_csv(MODEL_DIR / "dashboard_scored.csv.gz")
+    return pd.read_csv(MODEL_DIR / "dashboard_scored.csv")
 
 
 @st.cache_data
