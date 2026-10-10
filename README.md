@@ -121,21 +121,16 @@ The dashboard's live transaction-scoring interface uses the saved Random Forest 
 
 ### Dashboard Screenshots
 
-Add screenshots of your actual running dashboard below. Save the images in a folder such as `screenshots/` in the repository.
+### Dashboard Screenshots
 
-<!-- Replace these placeholders with your actual screenshots after uploading them. -->
+#### Risk Overview
+![Risk Overview Dashboard](screenshots/risk-overview.png)
 
-**Risk Overview**
+#### Investigate Alerts
+![Investigate Alerts Dashboard](screenshots/investigate-alerts.png)
 
-<!-- ![Risk Overview](screenshots/risk-overview.png) -->
-
-**Investigate Alerts**
-
-<!-- ![Investigate Alerts](screenshots/investigate-alerts.png) -->
-
-**Score a Transaction**
-
-<!-- ![Score a Transaction](screenshots/score-transaction.png) -->
+#### Score a Transaction
+![Score a Transaction Dashboard](screenshots/score-transaction.png)
 
 ## 9. Installation and Execution
 
