@@ -2,6 +2,10 @@
 
 An explainable fraud detection system that compares traditional machine learning with Graph Neural Networks (GCN and GAT) to identify suspicious financial transactions. The project combines graph-based learning, SHAP explanations, and an interactive Streamlit dashboard to support fraud risk analysis and investigation.
 
+## 🚀 Live Demo
+
+[Open Fraud Risk Dashboard](https://explainable-financial-fraud-detection-hkq9hlj9k3elue4t9xjeby.streamlit.app/)
+
 ## 1. Project Overview
 
 Financial fraud detection is challenging because fraudulent transactions represent a very small proportion of total transactions and may involve relationships between multiple accounts. Traditional transaction-level models can identify suspicious patterns in individual transactions, but they may not fully capture relationships between accounts.
